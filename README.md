@@ -6,6 +6,11 @@ Technology is advancing at break neck speed in every field of science. Perhaps t
 The Planetareum Project is open source for the benefit of the global community. Pushing the boundaries in several state-of-the-art fields of applied sciences to realise our true human potential. 
 Participation is the Planetareum Project is highly encouraged. Commits and general feedback are valued and will be rewarded at such time that the Planetareum Public Blockchain reaches ICO.
 
-##What problem will Planetareum solve?
+## What problems will Planetareum solve?
+Food Security. Primarily the project aims to solve food security or rather the lack of it. Even with all of the advances of the last 100 years there are still people going hungry every day in every country on earth. It's simply not acceptable any longer and has always been the cause of unnecessary suffering. 
+
+Planetareum aims to deliver the instructions and resources required for people in any corner of the world to take control of their local environment and create an abundance of healthy organic food for themselves, their families and the wider community. The rise of industrial agriculture has diminished the ancient knowledge of creating regerative and abundant landscapes that people and animals thrive in. Due to the ongoing efforts of naturalists, regerative agriculturalists and permaculturalists, that knowledge is now catalogued and available though the spread of this knowledge is slow and can be overwhelming to many people. Nature is very complicated, the symbiotic relationships between soil microbes, fungi, plants, animals and humans had to be relearned and documented in order for us to create an AI capable of mimicking a professional in this field.
+
+Decentralization of food supplies is required in order to sustain human population growth now and going into the future. If we do not address this most vital aspect of our basic needs there will be much suffering and starvation in years to come. It could be argued that current industrial agriculture is capable of providing for all people but we know that's not true as we still have major food security problems. Creating localised food abundance is the right way.
 
 
