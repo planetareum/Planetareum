@@ -4,7 +4,7 @@ Thanks to brilliant minds around the world today and technological breakthroughs
 Technology is advancing at break neck speed in every field of science. Perhaps the most notable of technological advance in 2017 is the Blockchain called Ethereum that brought together dozens of the largest companies in the world to the ConsenSys Summit held by the Enterprize Ethereum Alliance (EEA). Several other long awaited technologies have been entering mainstream consumer channels such as personal drones, Augmented and Virtual Reality (AR/VR). These fields of cutting edge technology are about to change our lives forever. 
 
 The Planetareum Project is open source for the benefit of the global community. Pushing the boundaries in several state-of-the-art fields of applied sciences to realise our true human potential. 
-Participation is the Planetareum Project is highly encouraged. Commits and general feedback are valued and will be rewarded at such time that the Planetareum Public Blockchain reaches ICO.
+Participation in the Planetareum Project is highly encouraged. Commits and general feedback are valued and will be rewarded at such time that the Planetareum Public Blockchain reaches ICO.
 
 ## What problems will Planetareum solve?
 Food Security. Primarily the project aims to solve food security problems throughout the world. Even with all of the advances of the last 100 years there are still people going hungry every day in every country on earth. It's simply not acceptable any longer and has always been the cause of unnecessary suffering. 
