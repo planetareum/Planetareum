@@ -6,6 +6,8 @@ Technology is advancing at break neck speed in every field of science. Perhaps t
 The Planetareum Project is open source for the benefit of the global community. Pushing the boundaries in several state-of-the-art fields of applied sciences to realise our true human potential. 
 Participation in the Planetareum Project is highly encouraged. Commits and general feedback are valued and will be rewarded at such time that the Planetareum Public Blockchain reaches ICO.
 
+Join our MatterMost server http://tinyurl.com/hub-planetareum-invite 
+
 ## What problems will Planetareum solve?
 Food Security. Primarily the project aims to solve food security problems throughout the world. Even with all of the advances of the last 100 years there are still people going hungry every day in every country on earth. It's simply not acceptable any longer and has always been the cause of unnecessary suffering. 
 
